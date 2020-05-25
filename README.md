@@ -8,7 +8,7 @@ Acessar projeto: https://trilloteste.netlify.com
 
 # ![contents](https://img.icons8.com/color/40/000000/pin.png) Table of Contents
 
-- [Features](features)
+- [Features](#features)
 - Instalation
 - Getting Started
 - FAQ
@@ -16,7 +16,7 @@ Acessar projeto: https://trilloteste.netlify.com
 - Contributing
 - License(license)
 
-## ![features](https://img.icons8.com/color/30/000000/rocket.png) Features
+## ![#features](https://img.icons8.com/color/30/000000/rocket.png) Features
 
 - Features 1
 - Features 2
