@@ -16,8 +16,8 @@ Acessar projeto: https://trilloteste.netlify.com
 - Contributing
 - License
 
-![rocket][features]
-[features]: https://img.icons8.com/color/48/000000/rocket.png ### Features
+![features]: https://img.icons8.com/color/48/000000/rocket.png 
+### Features
 
 - Features 1
 - Features 2
