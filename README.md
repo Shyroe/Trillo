@@ -8,13 +8,13 @@ Acessar projeto: https://trilloteste.netlify.com
 
 # ![contents](https://img.icons8.com/color/40/000000/pin.png) Table of Contents
 
-- Features
+- [Features](features)
 - Instalation
 - Getting Started
 - FAQ
 - Found a bug ? Missing a specific feature ?
 - Contributing
-- License
+- License(license)
 
 ## ![features](https://img.icons8.com/color/30/000000/rocket.png) Features
 
@@ -48,7 +48,7 @@ _yarn dev_
 
 **Answer**: this is the answer
 
-## [there is a bug ? check this!](https://img.icons8.com/color/30/000000/mental-state.png) Issues
+## ![there is a bug ? check this!](https://img.icons8.com/color/30/000000/mental-state.png) Issues
 
 Feel free to file a new issue with a respective title and description on the the Amazon Next repository. If you already found a solution to your problem, i would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
 
@@ -56,7 +56,7 @@ Feel free to file a new issue with a respective title and description on the the
 
 Check out the contributing page to see the best places to file issues, start discussions and begin contributing.
 
-## ![License](https://img.icons8.com/color/30/000000/book.png) License
+## ![license](https://img.icons8.com/color/30/000000/book.png) License
 
 This project is under the MIT license.
 
