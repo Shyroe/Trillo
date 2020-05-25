@@ -16,6 +16,7 @@ Acessar projeto: https://trilloteste.netlify.com
 - Contributing
 - License
 
+![rocket][features]
 [features]: https://img.icons8.com/color/48/000000/rocket.png ### Features
 
 - Features 1
@@ -58,4 +59,4 @@ Check out the contributing page to see the best places to file issues, start dis
 
 This project is under the MIT license.
 
-Made with love by Shiroe
+Made with love by Shyroe
