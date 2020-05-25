@@ -6,7 +6,7 @@ A ideia do projeto é criar uma interface complexa e responsiva, aplicando os co
 Acessar projeto: https://trilloteste.netlify.com
 
 
-## Table of Contents
+# ![contents](https://img.icons8.com/color/40/000000/pin.png) Table of Contents
 
 - Features
 - Instalation
@@ -22,7 +22,7 @@ Acessar projeto: https://trilloteste.netlify.com
 - Features 2
 - Features 3
 
-## Instalation
+## ![built](https://img.icons8.com/color/30/000000/maintenance.png) Instalation
 
 **You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
@@ -35,27 +35,29 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 **Install dependencies**
 **yarn install**
 
-## Getting Started
+## [start project](https://img.icons8.com/color/30/000000/running--v1.png) Getting Started
 
 Run the following command in order to start the application in a development environment:
 
 **yarn dev**
 
-## FAQ
+## [ask and answer](https://img.icons8.com/nolan/30/faq.png) FAQ
 
 **Question**: What are the tecnologies used in this project?
+
 **Answer**: this is the answer
 
-## Issues
+## [there is a bug ? check this!](https://img.icons8.com/color/30/000000/mental-state.png) Issues
 
 Feel free to file a new issue with a respective title and description on the the Amazon Next repository. If you already found a solution to your problem, i would love to review your pull request! Have a look at our contribution guidelines to find out about the coding standards.
 
-## Contributing
+## [contribute to project](https://img.icons8.com/color/30/000000/hashtag-2.png) Contributing
 
 Check out the contributing page to see the best places to file issues, start discussions and begin contributing.
 
-## License
+## [License](https://img.icons8.com/color/30/000000/book.png) License
 
 This project is under the MIT license.
 
-Made with love by Shyroe
+Made with love by Shiroe
+
