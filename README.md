@@ -1,9 +1,11 @@
+![trillo](https://user-images.githubusercontent.com/32007101/85089564-5452cc80-b1b9-11ea-978e-dad7338cee8a.JPG)
+
 # Trillo
-Projeto Front-End (CSS apenas) mobile responsive e desktop responsive, feito com pré-processador Css (SASS) e arquitetura Css (BEM).
+Front-End project (CSS only) mobile responsive and desktop responsive, made with Css preprocessor (SASS) and Css architecture (BEM).
 
-A ideia do projeto é criar uma interface complexa e responsiva, aplicando os conceitos do módulo flexbox.
+The idea of the project is to create a complex and responsive interface, applying the concepts of the flexbox module.
 
-Acessar projeto: https://trilloteste.netlify.com
+show project: https://trilloteste.netlify.com
 
 
 # ![contents](https://img.icons8.com/color/40/000000/pin.png) Table of Contents
@@ -18,9 +20,9 @@ Acessar projeto: https://trilloteste.netlify.com
 
 ## ![#features](https://img.icons8.com/color/30/000000/rocket.png) Features
 
-- Features 1
-- Features 2
-- Features 3
+- Made with only css
+- landing to apply flexbox layout concepts
+- responsive
 
 ## ![built](https://img.icons8.com/color/30/000000/maintenance.png) Instalation
 
@@ -46,7 +48,7 @@ _yarn dev_
 
 **Question**: What are the tecnologies used in this project?
 
-**Answer**: this is the answer
+**Answer**: html, scss, flexbox layout
 
 ## ![there is a bug ? check this!](https://img.icons8.com/color/30/000000/mental-state.png) Issues
 
